@@ -1,0 +1,2 @@
+# adityafsd
+importReact,{useState}from&amp;quot;react&amp;quot;; functionCounter(){ const[count, setCount]= useState(0); constincrement=()=&amp;gt;setCount(count+1); constdecrement=()=&amp;gt;setCount(count-1); const reset = () =&amp;gt; setCount(0); return( &amp;lt;divstyle={{textAlign:&amp;quot;center&amp;quot;,marginTop:&amp;quot;50px&amp;quot;}}&amp;gt; &amp;lt;h2style={{color: &amp;quot;#333&amp;quot;}}&amp;gt;Re,
